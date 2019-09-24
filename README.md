@@ -25,7 +25,7 @@ npm install
 
 # Serve
 
-cd back into root folder 
+change back into root folder 
 cd ..
 npm run dev
 
