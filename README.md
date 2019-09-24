@@ -22,7 +22,11 @@ npm install
 cd client
 npm install
 
+
 # Serve
+
+cd back into root folder 
+cd ..
 npm run dev
 
 # Build for production
