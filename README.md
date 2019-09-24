@@ -2,7 +2,8 @@
 
 > Full stack Vue/Express app using the Tracker Network API to track player stats
 
-![Apex Legends](https://i.imgur.com/il35Dor.png)
+
+<img src="https://i.imgur.com/b3s0dXQ.png" height="48" width="48">
 
 Example Heroku app url: https://stark-depths-69330.herokuapp.com
 
